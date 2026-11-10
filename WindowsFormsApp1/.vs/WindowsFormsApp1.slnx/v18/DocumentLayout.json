@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|solutionrelative:adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|f:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\windowsformsapp1\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088A611D-0AA6-4440-9F88-0D6853321881}|WindowsFormsApp1.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAmwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T05:22:01.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T05:09:19.292Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserForm.cs",
+              "ToolTip": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\UserForm.cs",
+              "RelativeToolTip": "UserForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:14:21.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserForm.cs",
+              "ToolTip": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\UserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:08:46.95Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "AdminForm.Designer.cs",
+              "ToolTip": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\AdminForm.Designer.cs",
+              "RelativeToolTip": "AdminForm.Designer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIAwwFsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T06:13:44.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "F:\\3 \u043A\u0443\u0440\u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsApp1\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T08:06:47.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
